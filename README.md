@@ -17,5 +17,6 @@
 <p>You should now have an API key and be ready to go!</p>
 
 <p>Clone the app and run npm install and last php artisan serve! Enjoy</p>
-![Screenshot (902)](https://user-images.githubusercontent.com/73633889/112401108-bd690100-8d44-11eb-8cfa-9117b5b8f752.png)
-![Screenshot (903)](https://user-images.githubusercontent.com/73633889/112401115-bfcb5b00-8d44-11eb-9ec5-c4c10600d5e9.png)
+[Screenshot (902)](https://user-images.githubusercontent.com/73633889/112401108-bd690100-8d44-11eb-8cfa-9117b5b8f752.png)
+
+[Screenshot (903)](https://user-images.githubusercontent.com/73633889/112401115-bfcb5b00-8d44-11eb-9ec5-c4c10600d5e9.png)
