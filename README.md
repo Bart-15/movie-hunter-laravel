@@ -2,7 +2,7 @@
 
 
 ## App Overview
-
+live demo ->  http://hudson-bunnyhug-54233.herokuapp.com/movies/804435
 <p>The user can find their favorite movie by using the saerch bar.</p>
 <p>Create a free account.</p>
 <p>Check your e-mail to verify your account.</p>
